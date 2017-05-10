@@ -1,0 +1,1 @@
+C:\Android\sdk\tools\templates\gradle\wrapper\gradlew --stop
